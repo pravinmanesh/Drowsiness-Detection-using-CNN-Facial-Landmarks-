@@ -70,24 +70,10 @@ After this we will upload the data on our drive that we will mount on the Google
 - And at the end we choose our Optimizers and Metrics.
 - I used Adam optimizer and Binary Cossentropy.
 
-**Output:**
-
-<p align="center">
-<img width="" height="" src="https://user-images.githubusercontent.com/73955220/210314080-80ca9241-5302-46d3-94db-e68c0645db2f.png">
-</p>
-
 **Step 8 : Predicting/Validating**
 
 - Now we will predict to check if our model was trained right or not.
 - And see some output images with prediction.
-
-
-**Output:**
-
-<p align="center">
-<img width="" height="" src="https://user-images.githubusercontent.com/73955220/210316496-b42f5ad5-3073-4c20-a155-d44bd0b35d33.png">
-</p>
-
 
 **Step 9: Final (testing our model)**
 
@@ -120,13 +106,6 @@ To run the file for detection of drowsiness we will have to run:
 - Then give the location of the trained model file (h file)
 
 - Then run the code.
-
-
-**Output :**
-
-<p align="center">
-<img width="" height="" src="![image (1)](https://github.com/pravinmanesh/Drowsiness-Detection-using-CNN-Facial-Landmarks-/assets/102349194/d4c18213-09a7-4b4c-bf13-8366ca3ea1cf)">
-</p>
 
 
 **Implementation on Controller:**
